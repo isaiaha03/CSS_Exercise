@@ -1,0 +1,9 @@
+.nav-link {
+    color: orange;
+    text-decoration: none;
+}
+
+main {
+    max-width: 600px;
+    margin: 24px auto;
+}
